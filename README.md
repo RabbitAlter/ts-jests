@@ -1,2 +1,1 @@
 # ts-jests
-ts-jests
