@@ -1,1 +1,1 @@
-# ts-jests
+# tes-jests
